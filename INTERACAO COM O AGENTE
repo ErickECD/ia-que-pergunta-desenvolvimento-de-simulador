@@ -1,0 +1,131 @@
+## Interação Completa
+
+**Usuário:**  
+Você é um entrevistador técnico especializado em vagas de tecnologia.  
+[...]  
+INICIE COM:  
+"Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: qual é o título da vaga e qual o propósito principal desse cargo?"
+
+**Assistente:**  
+Olá! Vou fazer perguntas sobre a vaga que você está estruturando.  
+Para começar: qual é o título da vaga e qual o propósito principal desse cargo?
+
+---
+
+**Usuário:**  
+Analista de Automação e IA
+
+**Assistente:**  
+Ótimo, entendido: o título da vaga é **Analista de Automação e IA**.  
+Seguindo nossa estrutura, a próxima questão é: qual a **senioridade esperada** para esse cargo e por que esse nível é necessário?
+
+---
+
+**Usuário:**  
+Junior
+
+**Assistente:**  
+Perfeito, então a vaga é para **Analista de Automação e IA Júnior**.  
+Seguindo nossa sequência, agora quero entender: quais **tecnologias, frameworks e práticas** você considera essenciais para esse cargo?
+
+---
+
+**Usuário:**  
+- Fundamentos de Automação  
+- Automação utilizando n8n, zapier, make, Manus  
+- Conhecimento em engenharia de prompt, utilização e integração de API  
+- Documentação de projetos  
+- Configuração de VPS, Docker
+
+**Assistente:**  
+Excelente, ficou bem claro o conjunto de tecnologias e práticas essenciais para o cargo.  
+Agora vamos para o último ponto da entrevista: quais **comportamentos ou atitudes** você considera mais valorizados nesse Analista de Automação e IA Júnior?
+
+---
+
+**Usuário:**  
+Comunicação, transparência e trabalho em equipe
+
+**Assistente:**  
+Perfeito, temos todas as informações sobre a vaga: título, senioridade, stack e soft skills.  
+Você gostaria que eu gere agora o **resumo analítico da vaga de Analista de Automação e IA Júnior** com base nas respostas que você forneceu?
+
+---
+
+**Usuário:**  
+sim
+
+**Assistente:**  
+Aqui está o **resumo analítico da vaga de Analista de Automação e IA Júnior** com base nas suas respostas:  
+[...] (Resumo completo gerado)
+
+Gostaria que eu também elaborasse uma **descrição de vaga pronta para publicação** (como em LinkedIn ou sites de recrutamento), baseada nesse resumo?
+
+---
+
+**Usuário:**  
+Preciso que me entreviste para a vaga
+
+**Assistente:**  
+Perfeito, Erick! Então vamos simular uma entrevista para a vaga de **Analista de Automação e IA Júnior**.  
+Eu conduzirei como se fosse um entrevistador técnico, fazendo uma pergunta por vez.  
+👉 Você poderia me contar sobre uma experiência prática (acadêmica, pessoal ou profissional) em que tenha utilizado alguma ferramenta de automação, como **n8n, Zapier ou Make**?
+
+---
+
+**Usuário:**  
+Estudo automações com n8n, egenharia de prompt, criação de agentes que utilizam as LLM's mais conhecidas do mercado, integração de sistemas via API.  
+[...] (detalhes da experiência)
+
+**Assistente:**  
+Muito bom, Erick — você trouxe exemplos bem práticos que mostram iniciativa e capacidade de aprender de forma independente [...]  
+👉 Quando você se depara com um problema técnico que não sabe resolver de imediato, qual é a sua abordagem para encontrar a solução e garantir que o trabalho avance?
+
+---
+
+**Usuário:**  
+Tento entender a estrutura e o escopo do projeto [...] Também consulto colegas e peço ajuda.
+
+**Assistente:**  
+Ótima resposta, Erick — você mostrou clareza de raciocínio [...]  
+👉 Em um ambiente de trabalho colaborativo, como você costuma garantir **comunicação clara e transparência** com sua equipe?
+
+---
+
+**Usuário:**  
+Sim, sempre com clareza e objetividade
+
+**Assistente:**  
+Muito bem, Erick — clareza e objetividade são pontos fortes [...]  
+👉 Como você imagina aplicar suas habilidades em automação e IA dentro de uma empresa, e qual impacto gostaria de gerar nos processos ou na equipe?
+
+---
+
+**Usuário:**  
+Imagino que possa atuar tanto na parte de organização/otimização de processos repetitivos quanto na estruturação de automações voltadas a area comercial [...]
+
+**Assistente:**  
+Excelente visão, Erick — você mostrou clareza sobre como aplicar automação e IA [...]  
+👉 Para concluir nossa simulação de entrevista, aqui está um **feedback analítico** sobre seu desempenho:  
+[...] (Feedback completo)
+
+Se quiser, posso montar um **plano de desenvolvimento de carreira** para você evoluir de Júnior para Pleno em Automação e IA. Deseja que eu faça isso?
+
+---
+
+**Usuário:**  
+Poderia montar um plano de estudos com videos onde eu consiga me dedicar 2h por dia?
+
+**Assistente:**  
+Aqui está um plano de estudos estruturado para você se dedicar 2h por dia [...] (Plano detalhado em semanas)
+
+---
+
+**Usuário:**  
+monte flashcards para testar meu conhecimento em relação a automações (n8), genharia de prompt e VPS
+
+**Assistente:**  
+Aqui está um conjunto de flashcards para você testar seus conhecimentos em **automação com n8n**, **engenharia de prompt** e **VPS**.  
+[...] (Flashcards gerados)
+
+---
